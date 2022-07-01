@@ -1,6 +1,5 @@
 const Pty = require('node-pty');
 const fs = require('fs');
-
 exports.install = function () {
 
     ROUTE('/');

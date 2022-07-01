@@ -21,6 +21,9 @@
       "**/CVS": true
    },
    "files.autoSave": "afterDelay",
-   "workbench.colorTheme": "Visual Studio Dark",
-   "editor.defaultFormatter": "HookyQR.beautify"
+   "workbench.colorTheme": "Sia synthwave colour theme",
+   "editor.defaultFormatter": "HookyQR.beautify",
+   "[python]": {
+      "editor.defaultFormatter": "ms-python.python"
+   }
 }
